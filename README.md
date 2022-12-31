@@ -16,6 +16,7 @@ in which the “topics” has like a dropdown list of 4 things:
 -	Future Of Work
 -	Health
 -	Quotes
+  
 In the 3 topics, it has the same template where I put a lot of articles.
 Then after the topics, in the Videos file I put my own characterisation of my favourites motivational videos for people who like to be motivated by watching videos.
 And last but not least, I put a Special Video file when I built my own content, pasted the embedded videos of my own YouTube Channel which are some tutorials not about motivation but my journey with this YouTube account is!!
