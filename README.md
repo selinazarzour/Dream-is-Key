@@ -1,5 +1,5 @@
 # Motivational Website
-#### Description:
+#### Description: Dec 2022
 Hello, I’m Selina Zarzour and I’m a grade 12 student at a French high school in Beirut, currently studying my A level in Mathematics and Physics, preparing eagerly to start my next chapter in life at University. Raised in the Lebanese middle eastern culture, multilingual, high energetic girl with an embedded revolution character always challenging the status quo, never stop asking “why”!!. I am very passionate about Technology, Computer Science and Engineering. My mission is to improve human life, to eliminate poverty and hunger from this planet and of course create a positive impact in our society and in our life.
 
 Part of my personal ambition is to contribute and give back to the community.
